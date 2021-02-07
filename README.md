@@ -1,6 +1,6 @@
 # Prosjekt Lei av å lete
 
-La roboten lete etter skrot så sparer du tid!
+La roboten lete etter skrot så sparer du tid! Bjørn synes dette er skikkelig kult.
 
 # How to run
 
